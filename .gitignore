@@ -11,3 +11,6 @@ todo
 .bundle
 bin/
 vendor/ruby
+.env
+.DS_Store
+.idea
